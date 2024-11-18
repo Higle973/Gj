@@ -1,10 +1,11 @@
+كيف استخدم هذا السكريبت 
 #!/bin/bash
 
 # تعيين القيم الافتراضية
 username="user"
 password="root"
 chrome_remote_desktop_url="https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb"
-CRP="246801"
+CRP=""
 Pin="123456"
 Autostart=true
 
