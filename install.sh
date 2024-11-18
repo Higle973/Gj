@@ -4,7 +4,7 @@
 username="user"
 password="root"
 chrome_remote_desktop_url="https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb"
-CRP=""
+CRP="246801"
 Pin="123456"
 Autostart=true
 
